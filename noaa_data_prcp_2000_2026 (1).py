@@ -1,8 +1,4 @@
-"""NOAA Data PRCP 2000-2026
-
-Original file is located at
-    https://colab.research.google.com/drive/1NOPrtv_wpoBLmNkN2SeaJ5AOS8W_-b7T
-"""
+"""NOAA Data PRCP 2000-2026"""
 
 # Project Overview
 
